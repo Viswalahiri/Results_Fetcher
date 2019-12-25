@@ -21,6 +21,6 @@ Installation of some browser-specific drivers is to be done.
 
 ----------------------------------------------------------------------------------------------------
 
-Mozilla Firefox: [Geckodriver] (https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip)
+Mozilla Firefox: [GeckoDriver](https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip)
 
-Chrome / Chromium: [ChromeDriver] (https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.8/)
+Chrome / Chromium: [ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.8/)
