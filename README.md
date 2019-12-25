@@ -6,14 +6,21 @@ A fun project to retrieve large amounts of data from the results forms on GITAM'
 
 Implemented with [Selenium](https://github.com/SeleniumHQ/selenium) (Python 3) in Python, this repository contains code that helps in automating web browsers to retrieve student examination results. This data can be further used, for analytical purposes to monitor student/section performance.
 
-If you want to use this code to help you with your automation, you must first install some browser-specific drivers to do so.
 ----------------------------------------------------------------------------------------------------
 
-Mozilla Firefox - Geckodriver (Click Link to Download)
+## Prerequisites
 
-https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip
+This package assumes using Python 3.x. 
 
------------------------------------------------------------------------------------------------------
-Chrome / Chromium - ChromeDriver (Click Link to Download)
+Expected package dependencies are listed in the "requirements.txt" file for PIP, you need to run the following command to get dependencies:
+```
+pip install -r requirements.txt
+```
 
-https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.8/
+Installation of some browser-specific drivers is to be done.
+
+----------------------------------------------------------------------------------------------------
+
+Mozilla Firefox: [Geckodriver] (https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip)
+
+Chrome / Chromium: [ChromeDriver] (https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.8/)
