@@ -1,5 +1,7 @@
 # Gitam_Results
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 Used to retrieve large amounts of data from results forms on GITAM's results platform
 
 Implemented with Selenium in Python, this repository contains code that helps in automating web browsers.
