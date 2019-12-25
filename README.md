@@ -17,9 +17,7 @@ Expected package dependencies are listed in the "requirements.txt" file for PIP,
 pip install -r requirements.txt
 ```
 
-Installation of some browser-specific drivers is to be done.
-
-----------------------------------------------------------------------------------------------------
+Browser-specific drivers are to be installed.
 
 Mozilla Firefox: [GeckoDriver](https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip)
 
