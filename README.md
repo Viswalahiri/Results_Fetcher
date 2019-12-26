@@ -40,9 +40,16 @@ Enter semester, batch year, and section number.
 
 ## Meta
 
+
+
+| Name | Github | LinkedIn | E-mail | Phone|
+| --- | --- | --- | --- | --- |
+| Viswalahiri Swamy Hejeebu | [@viswalahiri](https://github.com/viswalahiri) | [@viswalahiri](https://www.linkedin.com/in/viswalahiri/) |[E-mail](mailto:viswalahiriswamyh@gmail.com) | [(+91) 630-152-9655](tel:+916301529655)]
+| Krishna Sampath Mangalapalli | | [@sampath](https://www.linkedin.com/in/krishna-sampath-mangalapalli-0b4a62181/) | [E-mail](mailto:krishnasampath23@gmail.com) | [(+91) 810-651-5611](tel:+918106515611)
+<!---
 Viswalahiri Swamy Hejeebu – [@viswalahiri](https://github.com/viswalahiri) – Message me on [LinkedIn](https://www.linkedin.com/in/viswalahiri/) or send me an [e-mail](mailto:viswalahiriswamyh@gmail.com) for any queries.
 
 Krishna Sampath Mangalapalli – Message him on [LinkedIn](https://www.linkedin.com/in/krishna-sampath-mangalapalli-0b4a62181/) or send him an [e-mail](mailto:krishnasampath23@gmail.com) for any queries.
-
+--->
 
 Distributed under the [GNU License](https://opensource.org/licenses/GPL-3.0). See [`LICENSE`](https://github.com/Viswalahiri/Results_Fetcher/blob/master/LICENSE) for more information.
