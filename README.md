@@ -4,7 +4,7 @@
 
 A fun project to retrieve large amounts of data from the results forms on GITAM's online results [website](https://doeresults.gitam.edu/onlineresults/pages/Newgrdcrdinput1.aspx).
 
-> This repository is a sub-project for an automatic student grades analysis project aimed at reducing the manual and tedious process of creating student and section reports. Currently, results of **CSE** batches of **2021** and **2022** are retrievable. More batches and branches will be supported soon.**
+> This repository is a sub-project for an automatic student grades analysis project aimed at reducing the manual and tedious process of creating student and section reports. Currently, results of **CSE** batches of **2021** and **2022** are retrievable. More batches and branches will be supported soon.
 
 Implemented with [Selenium](https://github.com/SeleniumHQ/selenium) (Python 3) in Python, this repository contains code that helps in automating web browsers to retrieve GITAM student examination results. This data can be further used, for analytical purposes to monitor student/section performance.
 
