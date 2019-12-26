@@ -19,6 +19,6 @@ pip install -r requirements.txt
 
 Browser-specific drivers are to be installed.
 
-Mozilla Firefox: [GeckoDriver](https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip)
+Mozilla Firefox 70.0.x : [GeckoDriver](https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-win64.zip)
 
-Chrome / Chromium: [ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.8/)
+Chrome 79.0.x / Chromium (Not Tested): [ChromeDriver](https://chromedriver.storage.googleapis.com/79.0.3945.36/chromedriver_win32.zip)
