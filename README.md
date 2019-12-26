@@ -1,4 +1,4 @@
-# Gitam_Results
+# Results_Fetcher
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
@@ -33,9 +33,9 @@ Enter semester, batch year, and section number.
 
 ## Contributing
 
-1. [Fork](https://github.com/Viswalahiri/Gitam_Results/fork) this project.
+1. [Fork](https://github.com/Viswalahiri/Results_Fetcher/fork) this project.
 2. Commit your changes.
-3. Create a new Pull Request and link an [issue](https://github.com/Viswalahiri/Gitam_Results/issues/new) with it.
+3. Create a new Pull Request and link an [issue](https://github.com/Viswalahiri/Results_Fetcher/issues/new) with it.
 
 
 ## Meta
@@ -45,4 +45,4 @@ Viswalahiri Swamy Hejeebu – [@viswalahiri](https://github.com/viswalahiri) –
 Krishna Sampath Mangalapalli – Message him on [LinkedIn](https://www.linkedin.com/in/krishna-sampath-mangalapalli-0b4a62181/) or send him an [e-mail](mailto:krishnasampath23@gmail.com) for any queries.
 
 
-Distributed under the [GNU License](https://opensource.org/licenses/GPL-3.0). See [`LICENSE`](https://github.com/Viswalahiri/Gitam_Results/blob/master/LICENSE) for more information.
+Distributed under the [GNU License](https://opensource.org/licenses/GPL-3.0). See [`LICENSE`](https://github.com/Viswalahiri/Results_Fetcher/blob/master/LICENSE) for more information.
