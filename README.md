@@ -38,7 +38,7 @@ Enter semester, batch year, and section number.
 3. Create a new Pull Request and link an [issue](https://github.com/Viswalahiri/Results_Fetcher/issues/new) with it.
 
 
-## Meta
+## Meta [![GitHub followers](https://img.shields.io/github/followers/viswalahiri.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/viswalahiri?tab=followers)
 
 
 | Name | Github | LinkedIn | E-mail | Phone|
