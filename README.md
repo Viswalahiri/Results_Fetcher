@@ -22,6 +22,13 @@ Mozilla Firefox 70.0.x : [GeckoDriver](https://github.com/mozilla/geckodriver/re
 
 Chrome 79.0.x / Chromium (Not Tested): [ChromeDriver](https://chromedriver.storage.googleapis.com/79.0.3945.36/chromedriver_win32.zip)
 
+## Contributing
+
+1. [Fork](https://github.com/Viswalahiri/Gitam_Results/fork) this project.
+2. Commit your changes.
+3. Create a new Pull Request and link an [issue](https://github.com/Viswalahiri/Gitam_Results/issues/new) with it.
+
+
 ## Meta
 
 Viswalahiri Swamy Hejeebu – [@viswalahiri](https://github.com/viswalahiri) – Message me on [LinkedIn](https://www.linkedin.com/in/viswalahiri/) or send me an [e-mail](mailto:viswalahiriswamyh@gmail.com) for any queries.
