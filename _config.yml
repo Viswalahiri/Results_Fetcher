@@ -1,1 +1,3 @@
 theme: jekyll-theme-midnight
+title: Results_Fetcher
+description: This project is meant to retrieve examination score data from GITAM University's online results website. The continuation of this project will include automatic insight and report generation on said extracted data.
