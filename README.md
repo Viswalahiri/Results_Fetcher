@@ -11,7 +11,7 @@ Implemented with [Selenium](https://github.com/SeleniumHQ/selenium) (Python 3) i
 
 ## Prerequisites
 
-This package assumes using Python 3.x. 
+This package assumes you use Python 3.x. 
 
 Expected package dependencies are listed in the "requirements.txt" file for PIP, you need to run the following command to get dependencies:
 ```
