@@ -1,4 +1,5 @@
 import os
+import selenium
 import student_list
 import browser_connect
 import select_fields
